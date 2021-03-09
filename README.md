@@ -1,4 +1,4 @@
-# http-exercicios
+# http-crud
 
 ## Project setup
 ```
